@@ -28,10 +28,7 @@ header nav .toggle-menu {
 header nav ul {
   display: flex;
 }
-@media (max-width: 767px) {
-  header nav ul {
-    display: none;
-  }
+
   header nav .toggle-menu:hover + ul {
     display: flex;
     flex-direction: column;
