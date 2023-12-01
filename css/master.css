@@ -1,19 +1,4 @@
 
-header nav {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-}
-header nav .toggle-menu {
-  color: white;
-  font-size: 22px;
-}
-
-
-
-/* End Header */
-/* Start Landing */
 .landing {
   min-height: 100vh;
   background-color: #1f2021;
