@@ -11,12 +11,6 @@
   }
 }
 
-.landing .change-background {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  color: #ddd;
-}
 @media (max-width: 767px) {
   .landing .change-background {
     display: none;
