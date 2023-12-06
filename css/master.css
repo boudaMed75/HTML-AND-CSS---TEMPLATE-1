@@ -1,15 +1,4 @@
 
-.landing .text .content {
-  max-width: 500px;
-}
-@media (max-width: 767px) {
-  .landing .text {
-    width: 100%;
-  }
-  .landing .text .content {
-    max-width: 100%;
-  }
-}
 
 @media (max-width: 767px) {
   .landing .change-background {
