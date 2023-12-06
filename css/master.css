@@ -1,16 +1,4 @@
 
-.landing .text {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 50%;
-  padding: 50px;
-  background-color: var(--transparent-color);
-  color: white;
-  display: flex;
-  justify-content: flex-end;
-}
 .landing .text .content {
   max-width: 500px;
 }
