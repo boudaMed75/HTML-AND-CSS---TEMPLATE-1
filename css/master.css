@@ -8,10 +8,6 @@
   right: 30px;
 }
 
-.landing .bullets li.active {
-  background-color: var(--main-color);
-  border-color: var(--main-color);
-}
 /* End Landing */
 /* Start Services */
 .services {
