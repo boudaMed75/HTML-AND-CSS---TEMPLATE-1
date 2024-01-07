@@ -7,13 +7,7 @@
 .landing .fa-angle-right {
   right: 30px;
 }
-.landing .bullets {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  bottom: 30px;
-  display: flex;
-}
+
 .landing .bullets li.active {
   background-color: var(--main-color);
   border-color: var(--main-color);
